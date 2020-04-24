@@ -1,4 +1,3 @@
 discord.py==1.2.3
 aiohttp==3.5.4
-websocket==6.0
 python-dotenv==0.10.3
